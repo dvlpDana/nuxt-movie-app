@@ -10,6 +10,7 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: '' },
       { name: 'format-detection', content: 'telephone=no' },
+      // hid : meta data의 고유값을 의미함
       { hid: 'og:type', property: 'og:type', content: 'website' },
       { hid: 'og:site_name', property: 'og:site_name', content: 'Nuxt Movie App' },
       { hid: 'og:title', property: 'og:title', content: 'Movie App / Search' },
