@@ -1,9 +1,9 @@
 <template>
-  <RouterLink
+  <NuxtLink
     to="/"
     class="logo">
     <span>OMDbAPI</span>.COM
-  </RouterLink>
+  </NuxtLink>
 </template>
 
 <style lang="scss" scoped>

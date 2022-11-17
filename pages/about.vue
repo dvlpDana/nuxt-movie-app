@@ -78,7 +78,7 @@ export default {
     background-color: $gray-200;
     position: relative;
     img {
-      width: 100%;
+      width: 80%;
     }
   }
   .name {
